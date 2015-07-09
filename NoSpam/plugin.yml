@@ -1,0 +1,13 @@
+name: NoSpam
+version: 1.1
+main: com.playernguyen.NoSpam
+author: Player_Nguyen
+
+commands:
+    mute:
+    unmute:
+permissions:
+    nospam.mute:
+        default: op
+    nospam.unmute:
+        default: op

@@ -1,0 +1,10 @@
+lang:
+    Player_Mute: '&bBan khong the noi bay gio vi ban da bi mute.'
+    Khong_Noi_Bay: "&bNay %player%, khong duoc noi bay."
+    Khong_Co_Quyen: "Ban khong co quyen de su dung lenh nay"
+    Ban_Da_Bi_Mute: "Ban da bi mute."
+config:
+    Tu_Cam:
+        - fuck
+        - shit
+        - du
